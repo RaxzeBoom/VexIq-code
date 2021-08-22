@@ -6,7 +6,6 @@ task main()
 {
 repeat(forever)
 {
-tankControl(ChC, ChB, 20);
+tankControl(ChD,ChA,10);
 }
-
 }
