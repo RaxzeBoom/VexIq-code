@@ -65,6 +65,7 @@ task auto()
 		}
 
 	}
+	//This is why we change the speed of the flywheel based on if it get to the speed we need it at
 	if(getmotorvelocity(1)>22)
 	{
 		F1Speed=50;
